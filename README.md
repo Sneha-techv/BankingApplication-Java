@@ -31,5 +31,5 @@ The project is a simple **Banking Application** where users can:
 - Input validation and exception handling
 
 ---
-*Submitted as per the instructions of Dr. Manish Kumar (Java Programming Course).*
+*Submitted as per the instructions of Lucky Kumar (Java Programming Course).*
 
